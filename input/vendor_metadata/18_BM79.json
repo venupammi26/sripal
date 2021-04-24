@@ -1,0 +1,163 @@
+[
+  {
+    "10GPort0_MAC": "B0:26:28:74:C2:90",
+    "10GPort1_MAC": "B0:26:28:74:C2:91",
+    "IpmiMAC": "4c:d9:8f:9e:a8:c5",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VZDH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "3.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:7B:10",
+    "10GPort1_MAC": "B0:26:28:74:7B:11",
+    "IpmiMAC": "4c:d9:8f:9e:af:33",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VZ7H03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "5.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:9C:60",
+    "10GPort1_MAC": "B0:26:28:74:9C:61",
+    "IpmiMAC": "4c:d9:8f:a2:75:c0",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR6JH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "7.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:D2:80",
+    "10GPort1_MAC": "B0:26:28:74:D2:81",
+    "IpmiMAC": "4c:d9:8f:a2:29:bb",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR7BH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "9.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:7F:C0",
+    "10GPort1_MAC": "B0:26:28:74:7F:C1",
+    "IpmiMAC": "4c:d9:8f:a2:2a:23",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR6GH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "11.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:68:20",
+    "10GPort1_MAC": "B0:26:28:74:68:21",
+    "IpmiMAC": "4c:d9:8f:9e:a2:1f",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VYHH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "13.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:7B:A0",
+    "10GPort1_MAC": "B0:26:28:74:7B:A1",
+    "IpmiMAC": "4c:d9:8f:9e:ad:e2",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VZ9H03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "15.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:9B:B0",
+    "10GPort1_MAC": "B0:26:28:74:9B:B1",
+    "IpmiMAC": "4c:d9:8f:a2:6b:48",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR7DH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "17.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:67:40",
+    "10GPort1_MAC": "B0:26:28:74:67:41",
+    "IpmiMAC": "4c:d9:8f:a2:70:c0",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR78H03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "19.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:D7:80",
+    "10GPort1_MAC": "B0:26:28:74:D7:81",
+    "IpmiMAC": "4c:d9:8f:a2:6d:10",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR79H03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "21.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:69:B0",
+    "10GPort1_MAC": "B0:26:28:74:69:B1",
+    "IpmiMAC": "4c:d9:8f:a2:68:e0",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR6HH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "23.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:C9:70",
+    "10GPort1_MAC": "B0:26:28:74:C9:71",
+    "IpmiMAC": "4c:d9:8f:9e:ba:74",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VZBH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "25.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:7B:80",
+    "10GPort1_MAC": "B0:26:28:74:7B:81",
+    "IpmiMAC": "4c:d9:8f:9e:b0:bb",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VYGH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "27.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:9C:80",
+    "10GPort1_MAC": "B0:26:28:74:9C:81",
+    "IpmiMAC": "4c:d9:8f:a2:6b:78",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "HR77H03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "29.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:C9:40",
+    "10GPort1_MAC": "B0:26:28:74:C9:41",
+    "IpmiMAC": "4c:d9:8f:9e:af:4b",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VZFH03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "31.1s0"
+  },
+  {
+    "10GPort0_MAC": "B0:26:28:74:CA:A0",
+    "10GPort1_MAC": "B0:26:28:74:CA:A1",
+    "IpmiMAC": "4c:d9:8f:9e:b1:0b",
+    "MachineID": "PowerEdge R740xd2",
+    "SerialNo": "8VZ8H03",
+    "NodeType": "Storage",
+    "RackID": "BM79",
+    "SlotID": "33.1s0"
+  }
+]
+

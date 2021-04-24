@@ -1,0 +1,212 @@
+[
+    {
+        "10GPort0_MAC": "00:1E:67:D2:E4:3A",
+        "10GPort1_MAC": "00:1E:67:D2:E4:3B",
+        "IpmiMAC": "A4:BF:01:11:E9:7E",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:11:E9:7A",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931724085",
+        "SlotID": "21.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:F3:D2",
+        "10GPort1_MAC": "00:1E:67:D2:F3:D3",
+        "IpmiMAC": "A4:BF:01:01:D7:B9",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:01:D7:B5",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720010",
+        "SlotID": "23.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:E6:D6",
+        "10GPort1_MAC": "00:1E:67:D2:E6:D7",
+        "IpmiMAC": "A4:BF:01:03:DA:20",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:DA:1C",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720025",
+        "SlotID": "25.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:E2:26",
+        "10GPort1_MAC": "00:1E:67:D2:E2:27",
+        "IpmiMAC": "A4:BF:01:03:E1:96",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:E1:92",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720050",
+        "SlotID": "27.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:F5:32",
+        "10GPort1_MAC": "00:1E:67:D2:F5:33",
+        "IpmiMAC": "A4:BF:01:02:D8:84",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:02:D8:80",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720013",
+        "SlotID": "29.1s0"
+    },
+    {
+        "10GPort0_MAC": "A4:BF:01:0D:D3:44",
+        "10GPort1_MAC": "A4:BF:01:0D:D3:45",
+        "IpmiMAC": "A4:BF:01:03:EF:47",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:EF:43",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720034",
+        "SlotID": "31.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:F6:A0:B4",
+        "10GPort1_MAC": "00:1E:67:F6:A0:B5",
+        "IpmiMAC": "A4:BF:01:03:6B:76",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:6B:72",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720005",
+        "SlotID": "33.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:DF:EE",
+        "10GPort1_MAC": "00:1E:67:D2:DF:EF",
+        "IpmiMAC": "A4:BF:01:03:D3:A9",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:D3:A5",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931721004",
+        "SlotID": "35.1s0"
+    },
+    {
+        "10GPort0_MAC": "",
+        "IpmiMAC": "",
+        "MachineID": "",
+        "MgmtMAC": "",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "",
+        "SlotID": "37.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:E1:7A",
+        "10GPort1_MAC": "00:1E:67:D2:E1:7B",
+        "IpmiMAC": "A4:BF:01:03:FD:57",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:FD:53",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720044",
+        "SlotID": "5.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:E6:EE",
+        "10GPort1_MAC": "00:1E:67:D2:E6:EF",
+        "IpmiMAC": "A4:BF:01:03:DA:E3",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:DA:DF",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720036",
+        "SlotID": "17.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:EA:0E",
+        "10GPort1_MAC": "00:1E:67:D2:EA:0F",
+        "IpmiMAC": "A4:BF:01:03:E1:32",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:E1:2E",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931721005",
+        "SlotID": "7.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:E1:B2",
+        "10GPort1_MAC": "00:1E:67:D2:E1:B3",
+        "IpmiMAC": "A4:BF:01:03:E0:AB",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:E0:A7",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720039",
+        "SlotID": "19.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:D2:F5:2A",
+        "10GPort1_MAC": "00:1E:67:D2:F5:2B",
+        "IpmiMAC": "A4:BF:01:03:9C:FE",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:9C:FA",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720014",
+        "SlotID": "9.1s0"
+    },
+    {
+        "10GPort0_MAC": "A4:BF:01:0D:D9:6C",
+        "10GPort1_MAC": "A4:BF:01:0D:D9:6D",
+        "IpmiMAC": "A4:BF:01:03:F5:23",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:F5:1F",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720026",
+        "SlotID": "11.1s0"
+    },
+    {
+        "IpmiMAC": "00:E0:EC:4F:A3:06",
+        "MachineID": " Redstone XP 56854 System",
+        "NodeType": "MgmtSw",
+        "RackID": "O31",
+        "SerialNo": " D2060B2F056B01GD000005",
+        "SlotID": "39.1"
+    },
+    {
+        "IpmiMAC": "00:E0:EC:4F:47:27",
+        "MachineID": "DX010",
+        "NodeType": "IntSw",
+        "RackID": "O31",
+        "SerialNo": "DX010B2F036818GD000015",
+        "SlotID": "41.1"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:F6:A2:F8",
+        "10GPort1_MAC": "00:1E:67:F6:A2:F9",
+        "IpmiMAC": "A4:BF:01:03:9D:85",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:03:9D:81",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931720001",
+        "SlotID": "13.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:F8:3A:A0",
+        "10GPort1_MAC": "00:1E:67:F8:3A:A1",
+        "IpmiMAC": "A4:BF:01:02:BF:61",
+        "MachineID": "DCE-SSLED-V2-3-001",
+        "MgmtMAC": "A4:BF:01:02:BF:5D",
+        "NodeType": "Storage",
+        "RackID": "O31",
+        "SerialNo": "931719013",
+        "SlotID": "15.1s0"
+    },
+    {
+        "IpmiMAC": "00:E0:EC:4F:A3:06",
+        "MachineID": " Redstone XP 56854 System",
+        "NodeType": "MgmtSw",
+        "RackID": "O31",
+        "SerialNo": " D2060B2F056B01GD000005",
+        "SlotID": "39.1"
+    }
+]

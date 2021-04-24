@@ -1,0 +1,202 @@
+[
+    {
+        "10GPort0_MAC": "00:1E:67:FD:EA:9C",
+        "10GPort1_MAC": "00:1E:67:FD:EA:9D",
+        "IpmiMAC": "00:1E:67:FE:84:72",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FE:84:6E",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1121602464AA",
+        "SlotID": "5.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FD:FA:F0",
+        "10GPort1_MAC": "00:1E:67:FD:FA:F1",
+        "IpmiMAC": "00:1E:67:FC:BC:44",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FC:BC:40",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1121602460AA",
+        "SlotID": "7.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FD:EA:F8",
+        "10GPort1_MAC": "00:1E:67:FD:EA:F9",
+        "IpmiMAC": "A4:BF:01:00:86:62",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:86:5E",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1121602469AA",
+        "SlotID": "9.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:F8:3F:50",
+        "10GPort1_MAC": "00:1E:67:F8:3F:51",
+        "IpmiMAC": "A4:BF:01:00:88:60",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:88:5C",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1131600141AA",
+        "SlotID": "11.1s0"
+    },
+    { 
+        "10GPort0_MAC": "00:1E:67:F8:53:24", 
+        "10GPort1_MAC": "00:1E:67:F8:53:25", 
+        "IpmiMAC": "A4:BF:01:0A:6C:02", 
+        "MachineID": "TOCP-SSLED-CFG3", 
+        "MgmtMAC": "A4:BF:01:0A:6B:FE", 
+        "NodeType": "Storage", 
+        "RackID": "BA80", 
+        "SerialNo": "1151602606AA", 
+        "SlotID": "13.1s0" 
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:F2:B1:D0",
+        "10GPort1_MAC": "00:1E:67:F2:B1:D1",
+        "IpmiMAC": "00:1E:67:FE:86:E3",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FE:86:DF",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1111603029AA",
+        "SlotID": "15.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FE:07:D8",
+        "10GPort1_MAC": "00:1E:67:FE:07:D9",
+        "IpmiMAC": "A4:BF:01:00:83:74",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:83:70",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1131600125AA",
+        "SlotID": "17.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FE:07:64",
+        "10GPort1_MAC": "00:1E:67:FE:07:65",
+        "IpmiMAC": "A4:BF:01:00:84:E1",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:84:DD",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1111603042AA",
+        "SlotID": "19.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FD:FB:30",
+        "10GPort1_MAC": "00:1E:67:FD:FB:31",
+        "IpmiMAC": "A4:BF:01:00:85:68",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:85:64",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1131600128AA",
+        "SlotID": "21.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FE:00:A0",
+        "10GPort1_MAC": "00:1E:67:FE:00:A1",
+        "IpmiMAC": "A4:BF:01:00:EE:DB",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:EE:D7",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1131600133AA",
+        "SlotID": "23.1s0"
+    },
+    { 
+        "10GPort0_MAC": "00:1E:67:F8:41:9C", 
+        "10GPort1_MAC": "00:1E:67:F8:41:9D", 
+        "IpmiMAC": "A4:BF:01:00:84:2D", 
+        "MachineID": "TOCP-SSLED-CFG3", 
+        "MgmtMAC": "A4:BF:01:00:84:29", 
+        "NodeType": "Storage", 
+        "RackID": "BA80", 
+        "SerialNo": "1171604017AA", 
+        "SlotID": "25.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FE:00:54",
+        "10GPort1_MAC": "00:1E:67:FE:00:55",
+        "IpmiMAC": "00:1E:67:FD:12:99",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FD:12:95",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1131600131AA",
+        "SlotID": "27.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:F8:3C:C8",
+        "10GPort1_MAC": "00:1E:67:F8:3C:C9",
+        "IpmiMAC": "00:1E:67:FD:11:36",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FD:11:32",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1111602964AA",
+        "SlotID": "29.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FE:08:2C",
+        "10GPort1_MAC": "00:1E:67:FE:08:2D",
+        "IpmiMAC": "00:1E:67:FE:85:44",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FE:85:40",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1111603017AA",
+        "SlotID": "31.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FD:89:A6",
+        "10GPort1_MAC": "00:1E:67:FD:89:A7",
+        "IpmiMAC": "A4:BF:01:00:87:84",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "A4:BF:01:00:87:80",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1141605510AA",
+        "SlotID": "33.1s0"
+    },
+    {
+        "10GPort0_MAC": "00:1E:67:FE:09:D0",
+        "10GPort1_MAC": "00:1E:67:FE:09:D1",
+        "IpmiMAC": "00:1E:67:FC:BC:94",
+        "MachineID": "TOCP-SSLED-CFG3",
+        "MgmtMAC": "00:1E:67:FC:BC:90",
+        "NodeType": "Storage",
+        "RackID": "BA80",
+        "SerialNo": "1111606067AA",
+        "SlotID": "35.1s0"
+    },
+    {
+        "IpmiMAC": "2C:23:3A:A3:3C:DB",
+        "MachineID": "5900AF-48XG-4QSFP+ JC772A",
+        "NodeType": "MgmtSw",
+        "RackID": "BA80",
+        "SerialNo": "CN5AFHC0DP",
+        "SlotID": "38.1"
+    },
+    {
+        "IpmiMAC": "48:0F:CF:AE:0A:FA",
+        "MachineID": "HP Altoline 6712-32QSFP+ x86 ONIE AC Back-to-Front Switch",
+        "NodeType": "IntSw",
+        "RackID": "BA80",
+        "SerialNo": "TBD",
+        "SlotID": "41.1"
+    },
+    {
+        "IpmiMAC": "2C:23:3A:A9:65:8A",
+        "MachineID": "5900AF-48XG-4QSFP+ JC772A",
+        "NodeType": "IPMISw",
+        "RackID": "BA80",
+        "SerialNo": "CN5AFHC153",
+        "SlotID": "39.1"
+    }
+]
