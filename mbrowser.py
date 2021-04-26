@@ -69,10 +69,10 @@ def printNodeEntry(node):
 
     if( node.hasPort1Mac() ):
         #print "(WARN: using port 1 mac) "+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+", serialno="+serialNumber+", slot="+nodeSlot+", machineID="+machineID+", ipmiMac="+ipmiMac+", ipmiIp="+node.getIpmiIp()+", nodeType="+nodeType
-         print "(WARN: using port 1 mac) "+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+", serialno="+serialNumber+", slot="+nodeSlot+", machineID="+machineID+", ipmiMac="+ipmiMac+", nodeType="+nodeType
+         print "(WARN: using port 1 mac) "+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+", serialno="+serialNumber+", slot="+nodeSlot+", machineID="+machineID+", nodeType="+nodeType
     else:
         #print ""+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+", serialno="+serialNumber+", slot="+nodeSlot+", machineID="+machineID+", ipmiMac="+ipmiMac+", ipmiIp="+node.getIpmiIp()+", nodeType="+nodeType
-        print ""+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+", serialno="+serialNumber+", slot="+nodeSlot+", machineID="+machineID+",  ipmiIp="+node.getIpmiIp()+", nodeType="+nodeType
+        print ""+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+", serialno="+serialNumber+", slot="+nodeSlot+", machineID="+machineID+",   nodeType="+nodeType
 
 def printRackEntry(rack):
     #get vendor rack ID
@@ -350,7 +350,8 @@ def main(argv):
                 for node in rack.getNodes():
                     printNodeEntry(node)
     elif (args.publish):
-        file = "/tmp/" + args.dcName + ".txt"
+        #file = "/tmp/" + args.dcName + ".txt"
+        f = "mbrowser_modified_output.txt"
         f = open(file, "w")
         #f.write("" "MAC" + ", " + "IP" + ", " + "IPMI IP" + ", " + "Node Type" + ", " + "Slot" + ", " + "Rack")
         f.write("" "MAC" + ", " + "IP" + ", " + "Node Type" + ", " + "Slot" + ", " + "Rack")
