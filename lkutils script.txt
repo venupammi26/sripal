@@ -1,0 +1,97 @@
+#!/bin/bash
+
+source ../config/deployment-config
+
+SERVICE_DIR=/opt/montana/services/core/lkutils
+SERVICE_SRC_DIR=$SERVICE_DIR/src/
+
+function force_create_service_dir(){
+
+    echo "force_create_service_dir"
+
+    rm -rf $SERVICE_DIR
+    mkdir -p $SERVICE_DIR
+}
+
+function copy_data_to_service_dir(){
+
+    echo "copy_data_to_service_dir"
+
+    cp -r ../config $SERVICE_DIR
+    cp -r ../scripts $SERVICE_DIR
+    cp -r ../src $SERVICE_DIR
+}
+
+function add_permissions(){
+
+    echo "add_permissions"
+
+    chmod -R 0777 $SERVICE_DIR
+    chmod -R 0777 $SERVICE_DIR
+}
+
+function create_dc_dirs(){
+
+    echo "create_dc_dirs"
+
+    mkdir $SERVICE_DIR/config/arlington
+    mkdir $SERVICE_DIR/config/twinsburg
+    mkdir $SERVICE_DIR/config/omaha
+    mkdir $SERVICE_DIR/config/perryman
+    mkdir $SERVICE_DIR/config/burlington
+    mkdir $SERVICE_DIR/config/rocklin
+    mkdir $SERVICE_DIR/config/ewalukauna
+    mkdir $SERVICE_DIR/config/irving-lab
+    mkdir $SERVICE_DIR/config/perryman-dit
+    mkdir $SERVICE_DIR/config/rocklin-ek
+    mkdir $SERVICE_DIR/config/tampa
+    mkdir $SERVICE_DIR/config/twinsburg-dit
+    mkdir $SERVICE_DIR/config/waltham-ci
+    mkdir $SERVICE_DIR/config/irvinHiddenRidge
+    mkdir $SERVICE_DIR/config/perryman-iptv
+    mkdir $SERVICE_DIR/config/reston
+    mkdir $SERVICE_DIR/config/torrance
+    mkdir $SERVICE_DIR/config/waltham
+}
+
+function link_python_package(){
+
+    echo "link_python_package"
+    echo "creating symbolic link $SERVICE_SRC_DIR $PYTHON_LIBRARY_PATH/$PACKAGE_NAME"
+    rm $PYTHON_LIBRARY_PATH/$PACKAGE_NAME
+    ln -s $SERVICE_SRC_DIR $PYTHON_LIBRARY_PATH/$PACKAGE_NAME
+}
+
+function exit_if_not_root(){
+
+    if [ $EUID -ne 0 ] ; then
+        echo "must be root to sucessfully install tool"
+        exit 1
+    fi
+}
+
+
+function main(){
+
+    exit_if_not_root
+
+    if [ $INSTALL_TYPE = "DESKTOP" ] ; then
+        force_create_service_dir
+    fi
+
+    if [ $INSTALL_TYPE = "DESKTOP" ] ; then
+        copy_data_to_service_dir
+    fi
+
+    if [ $INSTALL_TYPE = "DESKTOP" ] ; then
+        create_dc_dirs
+    fi
+
+    if [ $INSTALL_TYPE = "DESKTOP" ] ; then
+        add_permissions
+    fi
+
+    link_python_package
+}
+
+main
