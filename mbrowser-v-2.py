@@ -29,7 +29,7 @@ def getParser(argv):
 
 def printNodeEntry(node):
        
-    print ""+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()+""
+    print ""+node.getMac()+", "+node.getIp()+", "+node.getNodeStor()+", "+node.getData()
 
 def printRackEntry(rack):
     
